@@ -1,6 +1,6 @@
 # Discord-easy-Gen
 ![71eXBBYjImL _AC_SL1200_](https://user-images.githubusercontent.com/94958239/174428943-07098184-5f71-4e1c-b843-2e4682da8e1c.jpg)
-#Setting up
+# Setting up<br>
 1.Dobble click setup.bat lanch.<br>
 
 2.Put your bot token in main.py line 9 that says "Your bot token"<br>
