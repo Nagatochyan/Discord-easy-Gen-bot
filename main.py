@@ -5,6 +5,7 @@ import random
 from discord import DMChannel
 import glob
 import os
+import string
 
 TOKEN = 'Your bot token'
 
