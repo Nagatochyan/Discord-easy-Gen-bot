@@ -1,1 +1,1 @@
-pip install discord.py
+pip install py-cord
